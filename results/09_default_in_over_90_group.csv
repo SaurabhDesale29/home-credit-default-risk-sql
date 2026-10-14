@@ -1,0 +1,4 @@
+delay_band,applications,defaults,default_rate_pct
+"1. 91-180 days",2097,245,11.68
+"2. 181-365 days",2171,212,9.77
+"3. Over 365 days",2825,226,8.00

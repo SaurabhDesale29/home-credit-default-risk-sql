@@ -1,0 +1,7 @@
+delay_details,applications,defaults,default_rate_pct
+"0. No payment history",15876,950,5.98
+"1. Never late",136636,9292,6.80
+"2. 1-30 days",136060,12559,9.23
+"3. 31-60 days",10248,1111,10.84
+"4. 61-90 days",1598,230,14.39
+"5. Over 90 days",7093,683,9.63
