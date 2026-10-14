@@ -8,7 +8,7 @@
 
 ## Data
 
-- **Source:** [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk) (Kaggle). The raw files are **not** included in this repository; please download them from Kaggle and follow its terms.
+- **Source:** [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk) (Kaggle).
 - **Used in this analysis:**
   - `application_train.csv`: 307,511 loan applications, with a default flag (`TARGET`). 24 of the 122 columns were loaded.
   - `installments_payments.csv`: 13,605,401 instalment records from customers' previous loans, covering 339,587 customers.
